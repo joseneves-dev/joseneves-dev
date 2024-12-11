@@ -38,3 +38,9 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=square&logo=visual-studio-code&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6F5499?style=square&logo=phpmyadmin&logoColor=white)
 ![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=square&logo=pgadmin&logoColor=white)
+
+
+
+⚡ Github Stats
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joseneves-dev&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joseneves-dev&theme=algolia) |
